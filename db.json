@@ -1,4 +1,4 @@
-[
+{
 "agenda" : [
     { "id" : 1 , "nome" : "Ana" , "telefone" : "1111-1111"  },
     { "id" : 2 , "nome" : "Helder" , "telefone" : "2222-2222"  },
@@ -9,4 +9,4 @@
     { "id" : 2 , "email" : "helder@ifto.edu.br"},
     { "id" : 3 , "email" : "fagno@ifto.edu.br"}
   ]
-]
+}
