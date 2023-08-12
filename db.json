@@ -8,5 +8,12 @@
     { "id" : 1 , "email" : "ana@ifto.edu.br"},
     { "id" : 2 , "email" : "helder@ifto.edu.br"},
     { "id" : 3 , "email" : "fagno@ifto.edu.br"}
+  ],
+  "estudantes": [
+    {"nome":"Ana","ano_nascimento": 1984,"notas":{"n1": 7,"n2": 5,"n3": 4}},  
+    {"nome":"Vinícius","ano_nascimento": 2001,"notas":{"n1": 6,"n2": 6,"n3": 6}},
+    {"nome":"Eric","ano_nascimento": 2003,"notas":{"n1": 7,"n2": 6,"n3": 7}},
+    {"nome":"Flávio","ano_nascimento": 2000,"notas":{"n1": 8,"n2": 8,"n3": 5}},
+    {"nome":"Feitosa","ano_nascimento": 2002,"notas":{"n1": 4,"n2": 4,"n3": 9}}
   ]
 }
