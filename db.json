@@ -17,53 +17,11 @@
     {"nome":"Feitosa","ano_nascimento": 2002,"notas":{"n1": 4,"n2": 4,"n3": 9}}
   ],
   "gradespi":[
-        "oneperiod":[
-            { "d1" : "Fundamentos de Redes de Computadores"},
-            { "d2" : "Tendências Tecnológicas para o Mercado de TI"},
-            { "d3" : "Introdução a Computação"},
-            { "d4" : "Informática Instrumental"},
-            { "d5" : "Introdução à Lógica"},
-            { "d6" : "Inglês Técnico"}
-        ],    
-        "twoperiod":[
-            { "d1" : "Fundamentos e Projeto de Banco de Dados"},
-            { "d2" : "Análise de Sistemas"},
-            { "d3" : "Introdução à Programação"},
-            { "d4" : "Programação Orientada a Objetos"},
-            { "d5" : "Programação Básica para Web"}
-        ],
-        "treeperiod":[
-            { "d1" : "Introdução à Conectividade"},
-            { "d2" : "Gerenciamento de Dados para Web"},
-            { "d3" : "Programação para Banco de Dados"},
-            { "d4" : "Administração de Sistemas Proprietários"},
-            { "d5" : "Programação para Web Designers"},
-            { "d6" : "Programação para Web I"}
-        ], 
-        "fourperiod":[
-            { "d1" : "Sistemas Distribuídos e SOA"},
-            { "d2" : "Projeto de Sistemas"},
-            { "d3" : "Testes de Software"},
-            { "d4" : "Projeto de Interface Web"},
-            { "d5" : "Programação para Web II"},
-            { "d6" : "Eletiva"}
-        ],
-        "fiveperiod":[
-            { "d1" : "Segurança de Sistemas"},
-            { "d2" : "Infraestrutura para Sistemas Web"},
-            { "d3" : "Administração de Banco de Dados"},
-            { "d4" : "Novas Tecnologias em BD"},
-            { "d5" : "Programação para Dispositivos Móveis I"},
-            { "d6" : "Metodologias de Desenvolvimento"}
-        ],
-        "sixperiod":[
-            { "d1" : "Novas Tecnologias em Desenvolvimento para Web"},
-            { "d2" : "Gerência de Configuração"},
-            { "d3" : "Padrões de Projeto"},
-            { "d4" : "Programação para Dispositivos Móveis II"}
-        ],
-
-
-      
+      {"periodo":"1° perído","disciplinas":{"d1" : "Fundamentos de Redes de Computadores","d2" : "Tendências Tecnológicas para o Mercado de TI","d3":"Introdução a Computação","d4":"Informática Instrumental","d5":"Introdução à Lógica","d6" : "Inglês Técnico"}},
+      {"periodo":"2° perído","disciplinas":{"d1" : "Fundamentos e Projeto de Banco de Dados","d2" : "Análise de Sistemas","d3" : "Introdução à Programação","d4":"Programação Orientada a Objetos","d5":"Programação Básica para Web"}},
+      {"periodo":"3° perído","disciplinas":{"d1" : "Introdução à Conectividade","d2" : "Gerenciamento de Dados para Web","d3" : "Programação para Banco de Dados","d4" : "Administração de Sistemas Proprietários","d5" : "Programação para Web Designers","d6":"Programação para Web I"}},
+      {"periodo":"4° perído","disciplinas":{"d1" : "Sistemas Distribuídos e SOA","d2" : "Projeto de Sistemas","d3" : "Testes de Software","d4" : "Projeto de Interface Web","d5" : "Programação para Web II","d6" : "Eletiva"}},
+      {"periodo":"5° perído","disciplinas":{"d1" : "Segurança de Sistemas","d2" : "Infraestrutura para Sistemas Web","d3" : "Administração de Banco de Dados","d4" : "Novas Tecnologias em BD","d5" : "Programação para Dispositivos Móveis I","d6" : "Metodologias de Desenvolvimento"}},
+      {"periodo":"6° perído","disciplinas":{"d1" : "Novas Tecnologias em Desenvolvimento para Web","d2" : "Gerência de Configuração","d3":"Padrões de Projeto","d4":"Programação para Dispositivos Móveis II"}}
   ]
 }
