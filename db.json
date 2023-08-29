@@ -75,7 +75,7 @@
 		}
 	],
 	"gradespi": [{
-			"periodo": "1° perído",
+			"periodo": "1° período",
 			"disciplinas": [{
 				"disciplina": "Fundamentos de Redes de Computadores",
 				"img": 2131165306
@@ -97,7 +97,7 @@
 			}]
 		},
 		{
-			"periodo": "2° perído",
+			"periodo": "2° período",
 			"disciplinas": [{
 					"disciplina": "Fundamentos e Projeto de Banco de Dados",
 					"img": 2131165306
@@ -119,7 +119,7 @@
 			]
 		},
 		{
-			"periodo": "3° perído",
+			"periodo": "3° período",
 			"disciplinas": [{
 					"disciplina": "Introdução à Conectividade",
 					"img": 2131165307
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"periodo": "4° perído",
+			"periodo": "4° período",
 			"disciplinas": [{
 					"disciplina": "Sistemas Distribuídos e SOA",
 					"img": 2131165307
@@ -175,7 +175,7 @@
 			]
 		},
 		{
-			"periodo": "5° perído",
+			"periodo": "5° período",
 			"disciplinas": [{
 					"disciplina": "Segurança de Sistemas",
 					"img": 2131165306
@@ -203,7 +203,7 @@
 			]
 		},
 		{
-			"periodo": "6° perído",
+			"periodo": "6° período",
 			"disciplinas": [{
 					"disciplina": "Novas Tecnologias em Desenvolvimento para Web",
 					"img": 2131165306
