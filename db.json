@@ -77,43 +77,43 @@
 	"gradespi": [{
 			"periodo": "1° perído",
 			"disciplinas": [{
-				"d1": "Fundamentos de Redes de Computadores",
+				"disciplina": "Fundamentos de Redes de Computadores",
 				"img": 2131165412
 			}, {
-				"d2": "Tendências Tecnológicas para o Mercado de TI",
+				"disciplina": "Tendências Tecnológicas para o Mercado de TI",
 				"img": 2131165412
 			}, {
-				"d3": "Introdução a Computação",
+				"disciplina": "Introdução a Computação",
 				"img": 2131165412
 			}, {
-				"d4": "Informática Instrumental",
+				"disciplina": "Informática Instrumental",
 				"img": 2131165413
 			}, {
-				"d5": "Introdução à Lógica",
+				"disciplina": "Introdução à Lógica",
 				"img": 2131165413
 			}, {
-				"d6": "Inglês Técnico",
+				"disciplina": "Inglês Técnico",
 				"img": 2131165413
 			}]
 		},
 		{
 			"periodo": "2° perído",
 			"disciplinas": [{
-					"d1": "Fundamentos e Projeto de Banco de Dados",
+					"disciplina": "Fundamentos e Projeto de Banco de Dados",
 					"img": 2131165413
 				},
 				{
-					"d2": "Análise de Sistemas",
+					"disciplina": "Análise de Sistemas",
 					"img": 2131165412
 				}, {
-					"d3": "Introdução à Programação",
+					"disciplina": "Introdução à Programação",
 					"img": 2131165412
 				}, {
-					"d4": "Programação Orientada a Objetos",
+					"disciplina": "Programação Orientada a Objetos",
 					"img": 2131165413
 				},
 				{
-					"d5": "Programação Básica para Web",
+					"disciplina": "Programação Básica para Web",
 					"img": 2131165412
 				}
 			]
@@ -121,27 +121,27 @@
 		{
 			"periodo": "3° perído",
 			"disciplinas": [{
-					"d1": "Introdução à Conectividade",
+					"disciplina": "Introdução à Conectividade",
 					"img": 2131165412
 				},
 				{
-					"d2": "Gerenciamento de Dados para Web",
+					"disciplina": "Gerenciamento de Dados para Web",
 					"img": 2131165412
 				},
 				{
-					"d3": "Programação para Banco de Dados",
+					"disciplina": "Programação para Banco de Dados",
 					"img": 2131165412
 				},
 				{
-					"d4": "Administração de Sistemas Proprietários",
+					"disciplina": "Administração de Sistemas Proprietários",
 					"img": 2131165412
 				},
 				{
-					"d5": "Programação para Web Designers",
+					"disciplina": "Programação para Web Designers",
 					"img": 2131165412
 				},
 				{
-					"d6": "Programação para Web I",
+					"disciplina": "Programação para Web I",
 					"img": 2131165412
 				}
 			]
@@ -149,27 +149,27 @@
 		{
 			"periodo": "4° perído",
 			"disciplinas": [{
-					"d1": "Sistemas Distribuídos e SOA",
+					"disciplina": "Sistemas Distribuídos e SOA",
 					"img": 2131165412
 				},
 				{
-					"d2": "Projeto de Sistemas",
+					"disciplina": "Projeto de Sistemas",
 					"img": 2131165413
 				},
 				{
-					"d3": "Testes de Software",
+					"disciplina": "Testes de Software",
 					"img": 2131165412
 				},
 				{
-					"d4": "Projeto de Interface Web",
+					"disciplina": "Projeto de Interface Web",
 					"img": 2131165413
 				},
 				{
-					"d5": "Programação para Web II",
+					"disciplina": "Programação para Web II",
 					"img": 2131165412
 				},
 				{
-					"d6": "Eletiva",
+					"disciplina": "Eletiva",
 					"img": 2131165413
 				}
 			]
@@ -177,27 +177,27 @@
 		{
 			"periodo": "5° perído",
 			"disciplinas": [{
-					"d1": "Segurança de Sistemas",
+					"disciplina": "Segurança de Sistemas",
 					"img": 2131165413
 				},
 				{
-					"d2": "Infraestrutura para Sistemas Web",
+					"disciplina": "Infraestrutura para Sistemas Web",
 					"img": 2131165413
 				},
 				{
-					"d3": "Administração de Banco de Dados",
+					"disciplina": "Administração de Banco de Dados",
 					"img": 2131165413
 				},
 				{
-					"d4": "Novas Tecnologias em BD",
+					"disciplina": "Novas Tecnologias em BD",
 					"img": 2131165412
 				},
 				{
-					"d5": "Programação para Dispositivos Móveis I",
+					"disciplina": "Programação para Dispositivos Móveis I",
 					"img": 2131165413
 				},
 				{
-					"d6": "Metodologias de Desenvolvimento",
+					"disciplina": "Metodologias de Desenvolvimento",
 					"img": 2131165412
 				}
 			]
@@ -205,19 +205,19 @@
 		{
 			"periodo": "6° perído",
 			"disciplinas": [{
-					"d1": "Novas Tecnologias em Desenvolvimento para Web",
+					"disciplina": "Novas Tecnologias em Desenvolvimento para Web",
 					"img": 2131165412
 				},
 				{
-					"d2": "Gerência de Configuração",
+					"disciplina": "Gerência de Configuração",
 					"img": 2131165412
 				},
 				{
-					"d3": "Padrões de Projeto",
+					"disciplina": "Padrões de Projeto",
 					"img": 2131165412
 				},
 				{
-					"d4": "Programação para Dispositivos Móveis II",
+					"disciplina": "Programação para Dispositivos Móveis II",
 					"img": 2131165412
 				}
 			]
